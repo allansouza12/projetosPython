@@ -1,0 +1,9 @@
+dia= input ( 'qual dia do seu aniverario?' )
+mes = input ( 'De qual mes?')
+ano= input (' qual ano? ' )
+ano = int(ano)
+if(ano) >= 2010:
+ print ( dia , '/' , mes , '/' , ano , 'hahaha novinh@' )
+else: 
+ print ( dia , '/' , mes , '/' , ano)
+ 
